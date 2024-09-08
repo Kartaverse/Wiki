@@ -1,4 +1,4 @@
-# The Kartaverse Immersive Pipeline Guide Wiki
+# The Kartaverse Immersive Pipeline Wiki
 
 > Welcome to the Kartaverse Wiki
 
